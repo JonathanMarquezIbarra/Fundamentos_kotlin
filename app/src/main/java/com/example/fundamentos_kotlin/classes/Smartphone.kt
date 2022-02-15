@@ -9,5 +9,4 @@ class Smartphone(number:Int, val isPrivate:Boolean) :Phone(number) {
     }
 
 
-
 }

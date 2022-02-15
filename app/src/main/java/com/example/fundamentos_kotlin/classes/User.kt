@@ -4,5 +4,4 @@ package com.example.fundamentos_kotlin.classes
 //habilita ciertos atributos especiales de este tipo de clases
 data class User(val id:Long, var name:String, var lastName:String, var group:Int){
 
-
 }

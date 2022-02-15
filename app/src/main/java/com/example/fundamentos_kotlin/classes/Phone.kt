@@ -12,4 +12,5 @@ open class Phone (protected val number:Int){
     open fun showNumber(){
         println("Mi número es: $number")
     }
+
 }

@@ -38,4 +38,5 @@ fun main(){
         friend.lastName = "Tellez"
     }
     println(friend)
+
 }
