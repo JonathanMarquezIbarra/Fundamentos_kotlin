@@ -7,4 +7,7 @@ fun main(){
     phone.call()
     phone.showNumber()
 
+    val smartphone = Smartphone(3456723,true)
+    smartphone.call()
+    smartphone.showNumber()
 }
